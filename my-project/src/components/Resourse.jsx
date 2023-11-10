@@ -15,7 +15,7 @@ const Resourse = () => {
                         I thrive on turning intricate lines of code into functional and innovative solutions. With
                         a knack for problem-solving,I navigate the digital realm with curiosity and precision. My
                         journey inthe tech world has sculpted me into a versatile professional, proficient in  various
-                        programming languages and frameworks. Whether it's designing seamless user experiences
+                        programming languages and frameworks. Whether its designing seamless user experiences
                         or tackling complex algorithms, I approach every challenge with enthusiasm. Beyond the
                         screen, I enjoy staying updated on the latest tech trends and love sharing my k
                         nowledge with the community. In the world of zeroand ones, I find my rhythm, creating a symphony of efficiency and creativity in the
